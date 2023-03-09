@@ -41,17 +41,15 @@
                     "id": "uniqueID-2",
                     "lat": "50.9",
                     "lon": "4.8",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "type": "festival",
+                    "name": "Armagh’s Home of St Patrick’s",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID2_2.jpg"
+                        "https://upload.wikimedia.org/wikipedia/commons/4/42/Cathedrale_d_Armagh.jpg"
                     ],
-                    "description": "One-paragraph description",
+                    "description": "St Patrick’s Festival returns with an exciting programme of music, art, theatre, film and dance. This is a chance to reflect on the legacy of St Patrick and have fun celebrating his influence on history and culture.",
                     "more": "More description, if you want",
                     "urls": [
-                        "https://nl.wikipedia.org/MyPoi",
-                        "https://example.org/mypoi"
+                        "https://es.m.wikipedia.org/wiki/Armagh"
                     ]
                 }
             ]
