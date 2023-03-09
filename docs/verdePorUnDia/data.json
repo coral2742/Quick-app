@@ -26,16 +26,15 @@
                     "id": "uniqueID",
                     "lat": "50.8789629",
                     "lon": "4.7013242",
-                    "type": "statue",
-                    "name": "My Statue",
+                    "type": "festival",
+                    "name": "Armagh’s Home of St Patrick’s",
                     "images": [
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_1.jpg",
-                        "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/images/uniqueID_2.jpg"
+                        "https://upload.wikimedia.org/wikipedia/commons/4/42/Cathedrale_d_Armagh.jpg"
                     ],
-                    "description": "One-paragraph description",
+                    "description": "St Patrick’s Festival returns with an exciting programme of music, art, theatre, film and dance. This is a chance to reflect on the legacy of St Patrick and have fun celebrating his influence on history and culture.",
                     "more": "More description, if you want",
                     "urls": [
-                        "https://nl.wikipedia.org/wiki/De_Kotmadam_(Leuven)",
+                        "https://es.m.wikipedia.org/wiki/Armagh",
                         "https://example.org/mypoi"
                     ]
                 },
