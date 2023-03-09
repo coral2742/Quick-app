@@ -25,7 +25,7 @@
             "pois": [{
                     "id": "uniqueID",
                     "lat": "53.595723",
-                    "lon": "-9.793211,15z",
+                    "lon": "-9.793211",
                     "type": "guided tour",
                     "name": "Killary Sheep Farm, county of Galway",
                     "images": [
@@ -39,7 +39,7 @@
                 {
                     "id": "uniqueID-2",
                     "lat": "54.3342262",
-                    "lon": "-6.8026289,11z",
+                    "lon": "-6.8026289",
                     "type": "festival",
                     "name": "Armagh’s Home of St Patrick’s",
                     "images": [
@@ -53,7 +53,7 @@
                 {
                     "id": "uniqueID-3",
                     "lat": "53.334903",
-                    "lon": "-6.1726884,13z",
+                    "lon": "-6.1726884",
                     "type": "coastal walks",
                     "name": "Dublin Bay",
                     "images": [
@@ -67,7 +67,7 @@
                 {
                     "id": "uniqueID-4",
                     "lat": "53.341978",
-                    "lon": "-6.2888998,17z",
+                    "lon": "-6.2888998",
                     "type": "tourist attraction",
                     "name": "The Guinness Storehouse",
                     "images": [
