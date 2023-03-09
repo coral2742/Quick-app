@@ -16,8 +16,8 @@
                     "complementary": "#00875a"
                 },
                 "repository_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/country/city",
-                "text_info": "This app is created by Iris and Coral and experts. As you can see, it's also free of charge. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
-                "text_acknowledge": "This quick app is an open-source project powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
+                "text_info": "This app is created by Iris and Coral. Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures.",
+                "text_acknowledge": "This quick app is an open-source project about places in Ireland in San Patrick's Day powered by open data and enriched by the community. Most of the information was extracted from Wikidata, OpenStreetMaps, and other public sources. You can find inaccuracies, so we apologize in advance.",
                 "text_feedback": "Please let us know if you want to contribute with your experience, enrich the content, correct inaccuracies, or submit pictures. This app is created by locals and experts.",
                 "feedback_url": "https://ow2-quick-app-initiative.github.io/poi-quick-app/sample/#get-involved",
                 "issue_url": "https://github.com/ow2-quick-app-initiative/poi-quick-app/issues/new?labels=country/city&template=update_request.md&title=Update+Request"
@@ -32,7 +32,6 @@
                         "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHmmFbUE8o0sZs5Jm7DZ-xmJw0_lo8NV5hiXVNpn_ZspVlc6J4_02CUg8kMhNOIzmXT28&usqp=CAU"
                     ],
                     "description": "In spring the landscape of Ireland, teeming with wildlife, is a true beauty of vivid colors and changing textures. But one of our favorite sights is the rolling green hills dotted with newborn, cotton-white lambs.",
-                    "more": "More description, if you want",
                     "urls": [
                         "https://killarysheepfarm.com/"
                     ]
@@ -47,7 +46,6 @@
                         "https://upload.wikimedia.org/wikipedia/commons/4/42/Cathedrale_d_Armagh.jpg"
                     ],
                     "description": "St Patrick’s Festival returns with an exciting programme of music, art, theatre, film and dance. This is a chance to reflect on the legacy of St Patrick and have fun celebrating his influence on history and culture.",
-                    "more": "More description, if you want",
                     "urls": [
                         "https://es.m.wikipedia.org/wiki/Armagh"
                     ]
