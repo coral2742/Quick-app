@@ -26,16 +26,15 @@
                     "id": "uniqueID",
                     "lat": "50.8789629",
                     "lon": "4.7013242",
-                    "type": "festival",
-                    "name": "Armagh’s Home of St Patrick’s",
+                    "type": "guided tour",
+                    "name": "Killary Sheep Farm, county of Galway",
                     "images": [
-                        "https://upload.wikimedia.org/wikipedia/commons/4/42/Cathedrale_d_Armagh.jpg"
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHmmFbUE8o0sZs5Jm7DZ-xmJw0_lo8NV5hiXVNpn_ZspVlc6J4_02CUg8kMhNOIzmXT28&usqp=CAU"
                     ],
-                    "description": "St Patrick’s Festival returns with an exciting programme of music, art, theatre, film and dance. This is a chance to reflect on the legacy of St Patrick and have fun celebrating his influence on history and culture.",
+                    "description": "In spring the landscape of Ireland, teeming with wildlife, is a true beauty of vivid colors and changing textures. But one of our favorite sights is the rolling green hills dotted with newborn, cotton-white lambs.",
                     "more": "More description, if you want",
                     "urls": [
-                        "https://es.m.wikipedia.org/wiki/Armagh",
-                        "https://example.org/mypoi"
+                        "https://killarysheepfarm.com/"
                     ]
                 },
                 {
