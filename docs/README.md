@@ -2,7 +2,7 @@
 
 [![JSON Check & Publication](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/actions/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/actions/workflows/gh-deploy.yml)
 
-The _Heritage in…_ Ireland Quick app project by [Iris](https://github.com/Jeann11) and [Coral](https://github.com/coral2742) promotes cultural heritage collections in small and medium cities  through open data and crowdsourcing, highlighting relevant sites to celebrate St. Patrick's Day.
+The _Heritage in…_ [Ireland Quick app project](https://heritagein.info/_/?url=https://raw.githubusercontent.com/coral2742/Quick-app/main/docs/verdePorUnDia/data.json#) by [Iris](https://github.com/Jeann11) and [Coral](https://github.com/coral2742) promotes cultural heritage collections in small and medium cities  through open data and crowdsourcing, highlighting relevant sites to celebrate St. Patrick's Day.
 
 <img src="./verdePorUnDia/images/MakeAGreenDay-Cartel.png" alt="Screenshots of the Make a Green Day application" width="100%">
 
