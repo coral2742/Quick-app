@@ -1,31 +1,22 @@
-# _Heritage in…_ Quick App
+# _Heritage in…_ Ireland (St. Patrick’s Day)🍀
 
 [![JSON Check & Publication](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/actions/workflows/gh-deploy.yml/badge.svg?branch=main)](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/actions/workflows/gh-deploy.yml)
 
-The _Heritage in…_ Quick App project promotes cultural heritage collections in small and medium cities through open data and crowdsourcing. 
+The _Heritage in…_ Ireland Quick app project by [Iris](https://github.com/Jeann11) and [Coral](https://github.com/coral2742) promotes cultural heritage collections in small and medium cities  through open data and crowdsourcing, highlighting relevant sites to celebrate St. Patrick's Day.
+
+<img src="images/MakeAGreenDay-Cartel.png" alt="Screenshots of the Make a Green Day application" width="100%">
 
 > It's free, open-source, and collaborative 
 
 Any city can implement its own application in a few hours. They only need one or more experts to feed the first version of the database. 
 
-__If you are interested, please visit the main repository with the [methodology and the templates](https://github.com/ow2-quick-app-initiative/poi-quick-app), and explore some [existing implementation examples](https://ow2-quick-app-initiative.github.io/poi-quick-app/#Examplesofimplementations).__
+## Some screenshots:
 
+<img src="images/MakeAGreenDayMobile.png" alt="Screenshots of the Make a Green Day application" width="100%">
 
-Quick links: 
-- [Repository with the methodology and docs (poi-quick-app)](https://github.com/ow2-quick-app-initiative/poi-quick-app)
-- [Repository of implementations and templates (poi-quick-app-implementations)](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations)
-- [Repository with the Web app code (poi-quick-app-web)](https://github.com/ow2-quick-app-initiative/poi-quick-app-web)
+<img src="images/MakeAGreenDay1.png" alt="Screenshots of the Make a Green Day application" width="100%">
 
-Some screenshots:
-
-<img src="./be/leuven/heritage/images/screenshots.png" alt="Screenshots of the Leuven application" width="100%">
-
-## Start a new project for your town
-
-If you want to start a new project, you only need to:
-
-- configure the [quick app](https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/quick-app) of this repository, and
-- configure the sample [database and documentation](https://github.com/ow2-quick-app-initiative/poi-quick-app/tree/main/docs/sample) that feeds the quick app.
+<img src="images/MakeAGreenDay3.png" alt="Screenshots of the Make a Green Day application" width="100%">
 
 ## License
 
@@ -49,7 +40,13 @@ Just fork the repository and start sending your contributions. The code of the q
 
 Feel free to [raise issues](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations/issues/new) on the code.
 
+Quick links: 
+- [Repository with the methodology and docs (poi-quick-app)](https://github.com/ow2-quick-app-initiative/poi-quick-app)
+- [Repository of implementations and templates (poi-quick-app-implementations)](https://github.com/ow2-quick-app-initiative/poi-quick-app-implementations)
+- [Repository with the Web app code (poi-quick-app-web)](https://github.com/ow2-quick-app-initiative/poi-quick-app-web)
+
 
 ## Acknowledgments
 
 - Banner picture by [Kasturi Roy on Unsplash](https://unsplash.com/photos/WLlupsRhjyw).
+- Information and images by https://stpatricksfestival.ie/ https://es.m.wikipedia.org, https://www.galwaytourism.ie/ and https://www.discoverireland.ie
