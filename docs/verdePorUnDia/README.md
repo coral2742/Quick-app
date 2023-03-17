@@ -4,6 +4,8 @@
 
 The _Heritage in…_ Ireland Quick app project by [Iris](https://github.com/Jeann11) and [Coral](https://github.com/coral2742) promotes cultural heritage collections in small and medium cities  through open data and crowdsourcing, highlighting relevant sites to celebrate St. Patrick's Day.
 
+<img src="images/MakeAGreenDay-Cartel.png" alt="Screenshots of the Make a Green Day application" width="100%">
+
 > It's free, open-source, and collaborative 
 
 Any city can implement its own application in a few hours. They only need one or more experts to feed the first version of the database. 
